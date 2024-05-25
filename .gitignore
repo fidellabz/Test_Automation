@@ -1,1 +1,3 @@
 node_modules
+e2e/axalogin.cy.js
+e2e/login.cy.js
